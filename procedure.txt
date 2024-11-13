@@ -1,0 +1,8 @@
+1. start by enabling the mongodb server
+2. go to mongosh and go to database "attendance_system"
+3. in collection students-> student data like name,usn,face data is storeed
+4. in collection attendance-> the attendance marked will be storeed
+start by running add_faces.py if ur a new user, else start with test.py
+press 'o' for marking attendance
+press 'q' for quitting the frame
+the.csv file will be avaiable to you in the attendance folder
